@@ -14,7 +14,7 @@ I **help businesses, students and building engineers uncover insights with data.
 
 - 📝 I regularly write articles on **Building projects**
 
-- 💬 Ask me about **Building construction**
+- 💬 Ask me about **Excel, SQL, Power BI and Building construction**
 
 - 📫 How to reach me **fecobush@gmail.com**
 
