@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emmanuel</h1>
 <h3 align="center">I'm a trained and certified expert in Excel, SQL and Power BI Analytics. I help businesses, students and building engineers uncover insights with data.</h3>
 
-**Emmanuel Ifeanyichukwu Soronnadi** is a trained and certified expert in Excel, SQL and Power BI Analytics. I am also a building engineer cum project manager based in Nigeria, who understand advance excel for business analysis.
+**Emmanuel Ifeanyichukwu Soronnadi** is a trained and certified expert in Excel, SQL, Python and Power BI Analytics. I am also a building engineer cum project manager based in Nigeria, who understand advance excel for business analysis.
 I **help businesses, students and building engineers uncover insights with data.**
 
 - 🔭 I’m currently working on **Advance excel**
@@ -14,7 +14,7 @@ I **help businesses, students and building engineers uncover insights with data.
 
 - 📝 I regularly write articles on **Building projects**
 
-- 💬 Ask me about **Excel, SQL, Power BI and Building construction**
+- 💬 Ask me about **Excel, SQL, Power BI, Python and Building construction**
 
 - 📫 How to reach me **fecobush@gmail.com**
 
